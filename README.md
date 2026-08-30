@@ -1,5 +1,5 @@
 <img src="360_F_1472139158_0Cfz3QlMswKtNppWeMAwAOpatZy6PFkR~2.jpg" width="100%">
-𑣲───────────𝙄𝙉𝙏𝙍𝙊𝘿𝙐𝘾𝙏𝙄𝙊𝙉 𝙋𝘼𝙂𝙀ֶָ֢ᐟـــــــــﮩ٨ـ 🗒️
+𑣲──────────𝙄𝙉𝙏𝙍𝙊𝘿𝙐𝘾𝙏𝙄𝙊𝙉 𝙋𝘼𝙂𝙀ֶָ֢ᐟـــــــــﮩ٨ـ 🗒️
 <div align="center" style="background-color: #E2E1FC; border-radius: 15px; padding: 25px; margin: 20px 0; font-family: sans-serif; color: #333333;">
 
   <!-- ==================== RULES SECTION ==================== -->
