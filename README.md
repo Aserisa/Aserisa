@@ -6,8 +6,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🪼 Rules
-      
-    </summary>
+          </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• I can only speak English and Turkish, so DNI if you speak neither of these languages.</p>
       <p>• If you're trying to start a conversation with me while I'm hanging out with someone else, whisper please! Or else i might not notice your text.</p>
@@ -21,8 +20,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🦭 Boundaries
-      
-    </summary>
+          </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• Don't discuss adult topics with me.</p>
       <p>• Please don't kiss me unless you're a close friend.</p>
@@ -35,8 +33,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       💤 DNI if you're a...
-      
-    </summary>
+          </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• Supporter of Copy Town</p>
       <p>• Bully/Cyberbully</p>
@@ -52,8 +49,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🪩 Fandoms
-      
-    </summary>
+          </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• *A:TLA</p>
       <p>• GoRiLLaZ</p>
@@ -72,8 +68,7 @@
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       💿 Music Taste
-      
-    </summary>
+          </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• GoRiLLaZ</p>
       <p>• The Offspring</p>
