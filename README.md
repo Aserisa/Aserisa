@@ -6,6 +6,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🪼 Rules
+      
     </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• I can only speak English and Turkish, so DNI if you speak neither of these languages.</p>
@@ -20,6 +21,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🦭 Boundaries
+      
     </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• Don't discuss adult topics with me.</p>
@@ -33,6 +35,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       💤 DNI if you're a...
+      
     </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• Supporter of Copy Town</p>
@@ -49,6 +52,7 @@
   <details style="margin-bottom: 25px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       🪩 Fandoms
+      
     </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• *A:TLA</p>
@@ -68,6 +72,7 @@
   <details style="margin-bottom: 10px;">
     <summary style="font-weight: bold; color: #1E1F4B; cursor: pointer; text-decoration: underline; list-style: none; font-size: 1.1em;">
       💿 Music Taste
+      
     </summary>
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• GoRiLLaZ</p>
