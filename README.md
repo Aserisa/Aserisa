@@ -56,7 +56,7 @@
       <p>• Class of '09</p>
       <p>• *MHA</p>
       <p>• *Danganronpa</p>
-      <p>• *Death Note</p>
+      <p>• *𝐃Ǝ⊲⊢𝐇 𝐍𝐎⊢𝐄</p>
       <p>• Saiki K.</p>
       <p>• Ongezellig</p>
       <p>• CRP</p>
