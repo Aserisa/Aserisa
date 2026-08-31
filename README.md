@@ -59,7 +59,7 @@
       <p>• *𝐃Ǝ⊲⊢𝐇 𝐍𝐎⊢𝐄</p>
       <p>• Saiki K.</p>
       <p>• Ongezellig</p>
-      <p>• CRP</p>
+      <p>• CRP⦻</p>
       <p style="margin-top: 15px; font-weight: bold; color: #D32F2F;">*DO NOT GIVE SPOILERS FROM THESE FRANCHISES⚠️</p>
     </div>
   </details>
