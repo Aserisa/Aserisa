@@ -10,7 +10,7 @@
     <div align="left" style="margin-top: 15px; max-width: 600px; margin-left: auto; margin-right: auto; line-height: 1.6;">
       <p>• I can only speak English and Turkish, so DNI if you speak neither of these languages.</p>
       <p>• If you're trying to start a conversation with me while I'm hanging out with someone else, whisper please! Or else i might not notice your text.</p>
-      <p>• I'm removing you from friends if you have been offline for more than a month. (sorry)</p>
+      <p>• I'm removing you from friends if I havent seen you for 30+ days. (sorry)</p>
       <p>• If you try to add me before even talking to me, I'm going to ignore your request.</p>
       <p>• You're getting a permanent ban if you annoy me (unless you're a close friend)</p>
     </div>
