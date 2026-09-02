@@ -25,7 +25,7 @@
       <p>• Don't discuss adult topics with me.</p>
       <p>• Please don't kiss me unless you're a close friend.</p>
       <p>• Don't immediately ask for real life information, I have to get to know you.</p>
-      <p>• C+H is ok!</p>
+      <p>• For C+H ASK first!</p>
     </div>
   </details>
 
