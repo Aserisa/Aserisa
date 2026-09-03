@@ -79,8 +79,8 @@
       <p>• Alex G</p>
       <p>• No Doubt</p>
       <p>• blink-182</p>
-      <p>• Ke$ha</p>
-      <p>• OR3O</p>
+      <p>• Oingo Boingo</p>
+      <p>• Creed</p>
       <p>• Flyleaf</p>
       <p>• Radiohead</p>
       <p>• Machine Girl (no it's not knockoff TV Girl)</p>
